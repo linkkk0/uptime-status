@@ -19,7 +19,7 @@ haiwindow.Config = {
   Navi: [
     {
       text: '个人博客',
-      url: 'https://www.linkkk.top/'
+      url: 'https://www.linkkk.top'
     },
 
   ],
