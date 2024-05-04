@@ -1,4 +1,4 @@
-window.Config = {
+haiwindow.Config = {
 
   // 显示标题
   SiteName: '403的网站运行状态',
@@ -18,16 +18,9 @@ window.Config = {
   // 导航栏菜单
   Navi: [
     {
-      text: 'Homepage',
-      url: 'https://status.org.cn/'
+      text: '个人博客',
+      url: 'https://www.linkkk.top/'
     },
-    {
-      text: 'GitHub',
-      url: 'https://github.com/yb/uptime-status'
-    },
-    {
-      text: 'Blog',
-      url: 'https://abo.xyz/'
-    },
+
   ],
 };
